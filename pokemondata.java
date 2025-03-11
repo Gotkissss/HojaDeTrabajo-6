@@ -52,7 +52,7 @@ class PokemonData {
     public String toString() {
         StringBuilder sb = new StringBuilder();
         sb.append("Información de ").append(nombrePokemon).append(":\n");
-        sb.append("- Tipo primario: ").append(tipoPrimario).append("\n");
+        sb.append("- Tipo primario: ").append(tipoPrimario).append("\n  ");
         sb.append("- Tipo secundario: ").append(tipoSecundario.isEmpty() ? "N/A" : tipoSecundario).append("\n");
         sb.append("- Estadísticas totales: ").append(totalStats).append("\n");
         sb.append("- Puntos de vida: ").append(puntosVida).append("\n");
