@@ -1,4 +1,5 @@
-import java.util.*;
+import java.util.*;  // Importa List, Map, Set, ArrayList, HashSet, HashMap, TreeMap, LinkedHashMap, Collections, Comparator
+
 // Clase para gestionar los Pokémon
 class GestorPokemon {
     private Map<String, PokemonData> catalogoPokemon;

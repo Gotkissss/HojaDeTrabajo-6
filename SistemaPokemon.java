@@ -1,3 +1,4 @@
+import java.util.Scanner; // Importa Scanner
 // Clase principal para la ejecución del programa
 public class SistemaPokemon {
     public static void main(String[] args) {
