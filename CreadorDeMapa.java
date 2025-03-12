@@ -1,3 +1,6 @@
+import java.util.*;  // Importa List, Map, Set, ArrayList, HashSet, HashMap, TreeMap, LinkedHashMap, Collections, Comparator
+
+
 // Factory para los mapas
 class CreadorDeMapa {
     // Constantes públicas
